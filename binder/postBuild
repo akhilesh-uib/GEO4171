@@ -1,4 +1,0 @@
-#!/bin/bash
-
-pip install --upgrade pip
-python -m ipykernel install --user --name flood_env --display-name "Python (FloodFreq)"
