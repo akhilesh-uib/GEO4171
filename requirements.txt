@@ -1,7 +1,10 @@
 numpy
 pandas
 matplotlib
+seaborn
 scipy
 lmoments3
-seaborn
+pymc
+arviz
 jupyterlab
+ipykernel
