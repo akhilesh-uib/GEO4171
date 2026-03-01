@@ -1,0 +1,17 @@
+name: floodfreq
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - lmoments3
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - pymc
+      - arviz
